@@ -127,11 +127,5 @@ Contributions are welcome! To contribute:
 
 ---
 
-## **License**
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
----
-```
-
-You can copy this into a file named `README.md` in your project directory. Let me know if you need any changes or additions!
