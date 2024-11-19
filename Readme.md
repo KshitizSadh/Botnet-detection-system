@@ -105,19 +105,16 @@ botnet-detection/
 
 ## **Results**
 
-The model achieved an **accuracy of XX%** on the test dataset with the following performance metrics:
+The model achieved an **accuracy of XX%** on the test dataset with the following performance metrics:  
 
-- **Precision**: XX%  
-- **Recall**: XX%  
-- **F1 Score**: XX%  
+![image](https://github.com/user-attachments/assets/e3cbb35b-2bd9-4cb1-b688-e4a9ae0920f2)
 
-### **Feature Importance**  
-![Feature Importance](results/feature_importance.png)
+![Figure_1](https://github.com/user-attachments/assets/e0a41b96-5fad-4d32-8e96-29c3c687e407)
 
-### **Confusion Matrix**  
-![Confusion Matrix](results/confusion_matrix.png)
+![2](https://github.com/user-attachments/assets/441c96c6-7d06-41bb-a501-0a6659b3ed95)
 
----
+
+
 
 ## **Contributing**
 
